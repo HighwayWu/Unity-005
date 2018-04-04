@@ -1,0 +1,5 @@
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\UnityNetwork\bin\Debug\UnityNetwork.dll
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\UnityNetwork\bin\Debug\UnityNetwork.pdb
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\UnityNetwork\obj\Debug\UnityNetwork.csprojResolveAssemblyReference.cache
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\UnityNetwork\obj\Debug\UnityNetwork.dll
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\UnityNetwork\obj\Debug\UnityNetwork.pdb

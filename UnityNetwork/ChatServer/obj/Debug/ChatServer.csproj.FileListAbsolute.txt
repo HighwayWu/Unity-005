@@ -1,0 +1,7 @@
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\bin\Debug\ChatServer.exe
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\bin\Debug\UnityNetwork.dll
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\bin\Debug\UnityNetwork.pdb
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\obj\Debug\ChatServer.exe
+c:\users\whw\documents\visual studio 2015\Projects\UnityNetwork\ChatServer\obj\Debug\ChatServer.pdb
