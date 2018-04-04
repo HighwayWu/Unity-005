@@ -8,7 +8,7 @@
 
 理清了socket框架的流程还是不难的。。附个网上的框架图。。
 
-先用vs(2015)启动服务器端,
+先用vs(2015)启动服务器端
 
 ![image](https://github.com/HighwayWu/Unity-005/raw/master/Screenshot/图片1.png)
 
